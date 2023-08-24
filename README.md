@@ -11,5 +11,5 @@ In this repository there are two jupyter notebooks:
 * This notebook contains code to
   1.  Create all figures in the manuscript "Vertical climate Velocity adds a new dimension to species' shifts"
   2.  The calculation of biomass weighted mean lat, lon, and depth for species in trawl data from the Gulf of Mexico, the Northeast U.S. Continental Shelf, and the East Bering Sea
-  3.  The calculation of any significant latitudinal or depth shifts based on (2.)
+  3.  The calculation of any significant latitudinal or depth shifts based on (ii.)
      
